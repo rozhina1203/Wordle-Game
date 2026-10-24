@@ -1,1 +1,1 @@
-A project to implement simple version of Wordle game. The project makes a random word then gives 4 characters for the input word to helps the player to guess the word correctly.
+A project to implement simple version of Wordle game. The project makes a random word then gives 4 characters ('-': incorrect letter, '+': correct letter in the wrong place, '=': correct letter in the right place) for the input word to helps the player to guess the word correctly.
